@@ -1,4 +1,3 @@
-```javascript
 /* =====================================================
    MENU MOBILE
 ===================================================== */
@@ -166,4 +165,3 @@ elements.forEach(function(element) {
     observer.observe(element);
 
 });
-```
